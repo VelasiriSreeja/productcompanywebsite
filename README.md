@@ -45,7 +45,7 @@ Background Color and Text Color are COMPLEMENTARY.
 
 ## PROGRAM :
  ### home.html:
- 
+ ```
  <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -93,10 +93,10 @@ Background Color and Text Color are COMPLEMENTARY.
     </div>
   </body>
 </html>
-
+```
 
 ### product.html :
-
+```
 
 <!DOCTYPE html>
 <html lang="en">
@@ -212,10 +212,10 @@ Background Color and Text Color are COMPLEMENTARY.
     </div>
   </body>
 </html>
-
+```
 
 ### people.html:
-
+```
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -288,9 +288,9 @@ Background Color and Text Color are COMPLEMENTARY.
     </div>
   </body>
 </html>
-
+```
 ### contactus.html:
-
+```
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -344,9 +344,9 @@ Background Color and Text Color are COMPLEMENTARY.
       </div>
 </body>
 </html>
-
+```
 ### style.css :
-
+```
  * {
   box-sizing: border-box;
   font-family: Arial, Helvetica, sans-serif;
@@ -487,7 +487,7 @@ body {
   margin: 0px 0px 0px 0px;
   color: #fff7f7;
 }
-
+```
 
 ## OUTPUT:
 
